@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\nbproject",
-    "\\src",
-    "\\vendor"
+    "\\nbproject\\private",
+    "\\vendor",
+    "\\vendor\\graham-campbell\\result-type",
+    "\\vendor\\graham-campbell\\result-type\\src",
+    "\\vendor\\phpoption\\phpoption",
+    "\\vendor\\phpoption\\phpoption\\src"
   ],
   "SelectedNode": "\\mediatek86.sql",
   "PreviewInSolutionExplorer": false
